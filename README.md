@@ -2,7 +2,7 @@
 
 This is a list of Minecraft Mod files for the GOML Minecraft Server
 
-BiomesOPlenty-1.12.2-7.0.1.2402-universal.jar
+BiomesOPlenty-1.12.2-7.0.1.2402-universal.jar\n
 CTM-MC1.12.2-0.3.2.20.jar
 Chameleon-1.12-4.1.3.jar
 Chisel-MC1.12.2-0.2.1.35.jar
